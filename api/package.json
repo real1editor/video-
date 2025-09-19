@@ -1,0 +1,16 @@
+{
+  "name": "real1editor-website",
+  "version": "1.0.0",
+  "description": "Professional website for Real1Editor video editing services",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel --prod"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  },
+  "devDependencies": {
+    "vercel": "^28.4.0"
+  }
+}
